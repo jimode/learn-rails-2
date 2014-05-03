@@ -24,6 +24,7 @@ db/*.sqlite3
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
+/config/secrets.yml
 
 # various artifacts
 **.war
