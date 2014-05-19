@@ -1,4 +1,4 @@
-gmail_username: <%= ENV[""GMAIL_USERNAME""] %>
+gmail_username: <%= ENV["GMAIL_USERNAME"] %>
 gmail_password: <%= ENV["GMAIL_PASSWORD"] %> 
 mailchimp_api_key: <%= ENV["aaae2208abbe426a8ff04023369bcedd-us8"] %> 
 mailchimp_list_id: <%= ENV["5d8ff68b0c"] %> 
