@@ -1,5 +1,4 @@
 class ContactsController < ApplicationController
-	# http://stackoverflow.com/questions/21070336/bad-authentication-error-rails-connecting-to-google-drive
 
 	def new
 		@contact = Contact.new
